@@ -1,0 +1,7 @@
+Lybrari, a simple library management software, was created for a data-structure mini project. It's intention is strictly educational.
+To build, go to the directory Lybrari and run the command
+make
+Then run
+make clean
+An executable lybrari is created. Run this by typing
+./lybrari
